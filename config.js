@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['917034167123', '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['917034167123','917034167123'] 
+global.prems = ['917034167123', '917034167123', '917034167123']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '𝐂𝚫𝚻 𝐒𝚸𝐘'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.packname = '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷 𝑆𝛪𝑅🎯𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷 𝑆𝛪𝑅☘️' 
+global.author = '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/m.hmmmmmd?igsh=MW42cTB4dHJtcWZuZA==\n' 
+global.dygp = 'https://chat.whatsapp.com/Gz866L8ZATyJvDx6YZHctQ'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
+global.fgyt = 'null'
+global.fgpyp = 'null'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
+global.imagen1 = fs.readFileSync('https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
